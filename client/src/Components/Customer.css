@@ -1,0 +1,15 @@
+.customer {
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    padding-left: 5%;
+    font-size: large;
+    width: 70%;
+  }
+
+  .span-check{
+      position: relative;
+      text-align: center;
+  }
